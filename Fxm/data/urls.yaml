@@ -1,0 +1,11 @@
+- url : https://m.lhs11.com/fxm/services/local/fxm/product/product@query.japi
+  method: get
+
+- url : https://m.lhs11.com/fxm/services/local/fxm/product/product@querydetail.japi
+  method: get
+
+- url : https://m.lhs11.com/fxm/services/local/fxm/product/product@query_sku.japi
+  method: get
+
+- url : https://m.lhs11.com/fxm/services/local/fxm/product/product@query_sku_list.japi
+  method: get

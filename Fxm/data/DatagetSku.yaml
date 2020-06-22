@@ -1,0 +1,245 @@
+productSku:
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 17:04:53'
+    gmt_modified: '2020-06-15 17:04:53'
+    id: 91824
+    listnum: 1
+    ordernum: 0
+    product_code: JTBYVW
+    product_id: 262972
+    sku_id: 红安县帝王湖
+    sku_val_id: 欢乐水世界单人门票
+    sort_num: 1
+  - allowmodify: 'false'
+    gmt_create: '2020-06-15 17:05:22'
+    gmt_modified: '2020-06-15 17:05:22'
+    id: 91825
+    listnum: 1
+    ordernum: 0
+    product_code: JTBYVW
+    product_id: 262972
+    sku_id: 红安县帝王湖
+    sku_val_id: 酒店平日住宿套餐
+    sort_num: 2
+  - allowmodify: 'false'
+    gmt_create: '2020-06-15 17:05:43'
+    gmt_modified: '2020-06-15 17:05:43'
+    id: 91827
+    listnum: 1
+    ordernum: 0
+    product_code: JTBYVW
+    product_id: 262972
+    sku_id: 红安县帝王湖
+    sku_val_id: 酒店周末住宿套餐
+    sort_num: 3
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:15:36'
+    gmt_modified: '2020-06-15 16:15:36'
+    id: 91795
+    listnum: 1
+    ordernum: 0
+    product_code: ZDWU86
+    product_id: 262971
+    sku_id: 久善美兮
+    sku_val_id: 9.9元=补水套餐
+    sort_num: 1
+  - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:15:44'
+    gmt_modified: '2020-06-15 16:15:44'
+    id: 91796
+    listnum: 1
+    ordernum: 0
+    product_code: ZDWU86
+    product_id: 262971
+    sku_id: 久善美兮
+    sku_val_id: 59.9元=保养套餐
+    sort_num: 2
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:45:36'
+    gmt_modified: '2020-06-15 16:45:36'
+    id: 91813
+    listnum: 1
+    ordernum: 0
+    product_code: SD9MGW
+    product_id: 262970
+    sku_id: 洛阳灵山莲花温泉度假区
+    sku_val_id: 灵山莲花水城水乐园+莲花公园一票通
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-16 14:54:54'
+    gmt_modified: '2020-06-16 14:54:54'
+    id: 91968
+    listnum: 7
+    ordernum: 7
+    product_code: GPR76M
+    product_id: 262969
+    sku_id: 2020新款休闲低跟懒人尖头凉鞋
+    sku_val_id: 14.9元/双
+    sort_num: 1
+  - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:10:49'
+    gmt_modified: '2020-06-15 16:10:49'
+    id: 91794
+    listnum: 1
+    ordernum: 0
+    product_code: GPR76M
+    product_id: 262969
+    sku_id: 2020新款休闲低跟懒人尖头凉鞋
+    sku_val_id: 9.9元/双
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:38:17'
+    gmt_modified: '2020-06-15 16:38:17'
+    id: 91807
+    listnum: 1
+    ordernum: 1
+    product_code: 9XUEKV
+    product_id: 262968
+    sku_id: 龙华水上乐园不限时畅玩门票
+    sku_val_id: 龙华水上乐园不限时畅玩门票
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:02:30'
+    gmt_modified: '2020-06-15 16:02:30'
+    id: 91793
+    listnum: 1
+    ordernum: 0
+    product_code: EQ8NQA
+    product_id: 262967
+    sku_id: 威宁小土豆
+    sku_val_id: 19.9元/5斤
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:56:44'
+    gmt_modified: '2020-06-15 15:56:44'
+    id: 91788
+    listnum: 4
+    ordernum: 4
+    product_code: YRY7DE
+    product_id: 262966
+    sku_id: 杨光会鲜货火锅
+    sku_val_id: 149元3人餐
+    sort_num: 1
+- []
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:22:39'
+    gmt_modified: '2020-06-15 16:22:39'
+    id: 91802
+    listnum: 15
+    ordernum: 15
+    product_code: NGZ3FM
+    product_id: 262964
+    sku_id: 翡记牛蛙
+    sku_val_id: 2-3人套餐
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:58:40'
+    gmt_modified: '2020-06-15 15:58:40'
+    id: 91791
+    listnum: 30
+    ordernum: 30
+    product_code: Z5D66N
+    product_id: 262963
+    sku_id: 美盛喜来登大酒店·盛宴标帜餐厅
+    sku_val_id: 299元=双人自助餐
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:57:00'
+    gmt_modified: '2020-06-15 15:57:00'
+    id: 91789
+    listnum: 11
+    ordernum: 11
+    product_code: 247XMT
+    product_id: 262962
+    sku_id: 手撕叫花鸡
+    sku_val_id: 1整只
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:02:08'
+    gmt_modified: '2020-06-15 16:02:08'
+    id: 91792
+    listnum: 1
+    ordernum: 0
+    product_code: DR9N2X
+    product_id: 262961
+    sku_id: 乌镇半望山精品民宿
+    sku_val_id: 住宿套餐（4店通用）
+    sort_num: 2
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:53:35'
+    gmt_modified: '2020-06-15 15:53:35'
+    id: 91787
+    listnum: 2
+    ordernum: 2
+    product_code: NB8A5G
+    product_id: 262960
+    sku_id: 珑太白鲍鱼
+    sku_val_id: 双人套餐
+    sort_num: 1
+- []
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:43:26'
+    gmt_modified: '2020-06-15 15:43:26'
+    id: 91784
+    listnum: 12
+    ordernum: 12
+    product_code: VO46WZ
+    product_id: 262958
+    sku_id: 不摆了鱼舍
+    sku_val_id: 99元=4人餐
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:51:03'
+    gmt_modified: '2020-06-15 15:51:03'
+    id: 91786
+    listnum: 3
+    ordernum: 3
+    product_code: VTIQ89
+    product_id: 262957
+    sku_id: 爱尚虾友记
+    sku_val_id: 88元
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:37:37'
+    gmt_modified: '2020-06-15 15:37:37'
+    id: 91782
+    listnum: 1
+    ordernum: 0
+    product_code: DTN1J6
+    product_id: 262956
+    sku_id: 百菲酪水牛纯奶
+    sku_val_id: 1件200ml*12盒
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:57:40'
+    gmt_modified: '2020-06-15 15:57:40'
+    id: 91790
+    listnum: 1
+    ordernum: 0
+    product_code: 5B4H3G
+    product_id: 262955
+    sku_id: 卡帝乐鳄鱼速干冰丝空调裤
+    sku_val_id: 49元/条
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 15:29:44'
+    gmt_modified: '2020-06-15 15:29:44'
+    id: 91778
+    listnum: 4
+    ordernum: 4
+    product_code: HOGWJN
+    product_id: 262954
+    sku_id: 镜之尚
+    sku_val_id: 眼镜套餐
+    sort_num: 1
+- - allowmodify: 'false'
+    gmt_create: '2020-06-15 16:33:41'
+    gmt_modified: '2020-06-15 16:33:41'
+    id: 91806
+    listnum: 36
+    ordernum: 36
+    product_code: KZYOCH
+    product_id: 262953
+    sku_id: 长沙V5星球水上乐园
+    sku_val_id: 水上乐园门票
+    sort_num: 1

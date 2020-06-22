@@ -1,0 +1,441 @@
+
+- begin_time: '2020-06-21 00:00:00'
+  business: 香粥铺
+  city: '1369'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: B41910528F552D41.jpg,925F943C631465C6.jpg,49E4F6B21CE0716B.jpg,D75F12756EB7AC07.jpg,8048FB40812C4A1B.jpg
+  img_main: 54D957EEF2EC566D.png
+  img_main_small: 77CE52726C67D2CF.png
+  img_poster: 4DAA8D084EFEEE94.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 1
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【栖霞小区】营养美味！养颜又养胃~仅9.9元抢门市价48元香粥铺套餐~砂锅粥1锅~相思红豆粥/清火绿豆粥等7选1+秘制泡菜+春卷
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '33'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 君乐宝奶京津冀包邮到家
+  city: '1100'
+  class: gds
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-23 23:59:59'
+  img_list: F0D0E8EB5B3116FE.png,7BCEFB9F5041CAA0.png,E7CBBCBAD2FF6532.jpg,FF679663CC2FBA4D.jpg,A0F8876F69B91DA0.png
+  img_main: 255F3CB0EEE2F627.jpg
+  img_main_small: 96AE8453F48A9BDD.jpg
+  img_poster: 2FBF2E8AA1587B6D.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 谁还不是个未“断奶”的宝宝呢~99元抢君乐宝开啡尔酸奶2箱+简醇壶牛奶1箱~口感细腻~口口留香~京津冀包邮到家~
+  off_shelf_time: '2020-06-24 06:00:00'
+  pay_ways: 3.2.2
+  province: '14'
+  status: 0
+- begin_time: '2020-06-21 16:30:00'
+  business: 荆州·红桃K虾王10斤虾子全虾宴
+  city: '1265'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-27 23:59:59'
+  img_list: D7958CEEA96AF6D1.jpg,6D6A6D701091486A.jpg,09B1D4CC6FA6525E.jpg,F32DDA8A85894184.jpg,DC5DD19CA492D834.jpg
+  img_main: C380C0928A12886C.jpg
+  img_main_small: E1CC53B8CBABF377.jpg
+  img_poster: 1BB16820787B0869.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【沙市区•红星路】全虾宴~10斤虾子豪横吃~78元抢门市价378元红桃K虾王10斤虾~卤虾+葱爆大虾+油焖大虾~20多年口碑虾店
+  off_shelf_time: '2020-06-28 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 荆州万汇雅宴特色鸡子火锅4人套餐
+  city: '1265'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-10 23:59:59'
+  img_list: A0E852A3A405DA25.jpg,C4F272F1251D90F3.jpg,6C22F375DE7382F9.jpg,9CFFCF17AB7B92FF.jpg,AAA21D32A8B5C9E9.jpg
+  img_main: EB0A789D5DF9DB78.jpg
+  img_main_small: 8A1B4EA2CBA77075.jpg
+  img_poster: 63093DE6AFECAA90.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【荆州区•学苑路】鱼鸡兼得~鲜嫩无比~69.8元抢门市价266元万汇雅宴4人套餐~特色鸡子火锅约2.5斤+麻辣片片鱼+辣炒花甲+干锅土豆片+清炒时蔬等~
+  off_shelf_time: '2020-07-11 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 桂平蟠龙谷文化酒店
+  city: '1320'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: CE70114FAFFC11D6.jpg,E93DA5E06949ACB9.jpg,180DCD0D188235A9.jpg,4FA8C38F84DEBB36.jpg,19276236D244F14A.jpg
+  img_main: 2B14F132DECD7A57.gif
+  img_main_small: 047F810F0EEED071.jpg
+  img_poster: B6110235D0205407.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【桂平•蟠龙谷】住世外桃源~享山林美景~299元抢门市价1258元蟠龙谷文化酒店套票~住宿+听瀑台双人宵夜自助+畅游山泉水泳池~
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '30'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 【文昌路】康悦休闲养生
+  city: '1314'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: 55FB24A3C17F6B48.jpg,DCFA894C3378E8B3.jpg,A982F3C539E1E02B.jpg,FA9FBD0DE3678137.jpg,830497EE448834DF.jpeg
+  img_main: 66D26050CE24348F.png
+  img_main_small: DD59487C61337D16.png
+  img_poster: 79400CAFA3E2CA46.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【文昌路】Duang！是时候给身体放个假啦！59.9元起抢门市价119元康悦休闲养生净桑套餐~6小时沐浴+干蒸/湿蒸+电影院等
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '30'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 姜太公冷锅鱼4人自助餐
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-04 23:59:59'
+  img_list: EE7AB14C5C42DFE1.jpg,A090D8D7D3C42858.jpg,DCE7B9A7F4621BC3.jpg,A61752D2A1449ADD.jpg,819990729F0618EF.jpg
+  img_main: F84F660FAFE392A7.gif
+  img_main_small: 254855D12891078B.png
+  img_poster: 5EAD0210B5FD7401.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【驿都汇•莽莽巷】人均25元抢价值219元姜太公冷锅鱼4人豪华自助~黔鱼、花鲢、白鲢+20余种素菜均不限量
+  off_shelf_time: '2020-07-05 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-21 15:00:00'
+  business: 荆州·好味道小龙虾烤鱼套餐
+  city: '1265'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-03 00:00:00'
+  img_list: 03257A90E631D525.jpg,30E257F3EFA2CCA1.jpg,1B7D38A152C6E7FD.jpg,7D1C00A6DBD97ABC.jpg,3E5EAE4AB6E11436.jpg
+  img_main: 661C10B41CBEBED8.jpg
+  img_main_small: DCC4B38B17C24739.jpg
+  img_poster: 0CC98FDADA50CDDB.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【沙市区•解放路】巴掌大龙虾福利来袭~10年老店一吃忘不了~69.9元抢好味道门市价251元套餐~油焖大虾/清蒸大虾+招牌烤鱼等
+  off_shelf_time: '2020-07-04 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-20 19:16:49'
+  business: 德门仁里五凤溪店
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-10 00:00:00'
+  img_list: E10653047922FBD0.jpeg,2C4566435A104934.jpeg,944BB6CA511BA50B.jpeg,2ECAAD61D233855F.jpeg,F1E568E039A87308.jpeg,651B3EAE846C3D6A.jpeg
+  img_main: 6B0566E391BAA4DF.gif
+  img_main_small: 15A27A0B200BFE30.png
+  img_poster: F27E63F54FA3DA2B.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 0
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【五凤溪古镇•周末不加价】边城清幽慢时光！5折住进“川派”古典居所~158元抢价值358元【德门仁里五凤溪店】中式古典房~
+  off_shelf_time: '2020-07-11 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-20 18:45:52'
+  business: 花筑·崇州西武当太极宫客栈
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-05 00:00:00'
+  img_list: 9DB06815BE067C20.jpeg,4D6D224356F7D43F.jpeg,26A83EB6F4B27811.jpeg,D639512CAF5022F2.jpeg,3FFAD1A029886C6B.jpeg,844DFA03BC98671D.jpeg,CBC3BF2394AC7E8A.jpeg,3BBC655BE8C5E1D5.jpeg,7B32D092CB8F4828.jpeg,0EB0CE1424C199CE.jpeg
+  img_main: 05C6222A89E50118.gif
+  img_main_small: 093A3990EF30A5BD.png
+  img_poster: 16A636AE521DB1E7.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 0
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【崇州市】梦起云之境，梦落太极宫~让你当回神仙~仅268元抢价值1680元花筑·崇州西武当太极宫客栈住宿套票~2大1小早餐等~
+  off_shelf_time: '2020-07-06 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-21 00:00:00'
+  business: 应城汤池温泉私汤木屋&大冶梅红山森林木屋
+  city: '1269'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-09-29 23:59:59'
+  img_list: F41C58A28D3225F7.png,39CBCDD68975ACCF.png,D393CA3B48BCC6D6.png,89335BCC5C2732C7.png,BB1625D7127107BF.png,C4FCE0DF35F3A1AB.png
+  img_main: 7C957E5C37460B1E.gif
+  img_main_small: 8E58426969FF623D.jpg
+  img_poster: 7DAFFB6ED86E4BF0.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【汤池温泉私汤木屋&梅红山森林木屋】消暑避夏~479元享门市价1288元汤池温泉/森林木屋~双人温泉泳池+含早餐/独立木屋等~
+  off_shelf_time: '2020-09-30 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-20 18:34:29'
+  business: 阆中天府明宇尚雅酒店
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: B79DFB4167D8AF59.jpeg,E8703A983B144A66.jpeg,5F21B738492E7EBF.jpeg,08003F89451D1943.jpeg,C2CEADB5E5F4854E.jpeg,3626F92B831AF11F.jpeg,5437A05CFB842ED2.jpeg,48FD0E45DC9E62E6.jpeg,A7FEB1C7430EEB4A.jpeg,88F5407A6497AB15.jpeg,3125B691D20B187C.jpeg
+  img_main: D65A7DC410C97263.gif
+  img_main_small: E758F6642FE6E933.png
+  img_poster: 34A4796E00675C0D.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 0
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【5A景区·俯瞰阆中古城】360度无敌江景~五星度假shou选~299元=原价值739元阆中天府明宇尚雅酒店2大1小~探索房+早餐+家庭餐或周末海鲜自助~~
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-20 18:25:18'
+  business: 享悦
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: B59668AF9A05A316.jpeg,E48B61DD0A9AB46B.jpeg,35E0DBE328037E80.jpeg,6CADA9FB838AA78D.jpeg,3F26E422C54ADE70.jpeg,52761C18487F5493.jpeg,B81BBB84B768E4DA.png,2BF71452CEEB3A6C.jpeg,7677417E3A6D10C1.jpeg,EFCD2EC2D79344A6.jpeg,9E98F2DDDB406187.jpeg,DB0A6663399A4F13.jpeg
+  img_main: 7F3D51BFDE5EBFEF.gif
+  img_main_small: 86807416BD35FBAD.png
+  img_poster: 1DE54B49E5895ECB.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 0
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【金牛区·免预约】男人女人的欢乐天堂！养生~吃~喝~玩乐一步到位！仅98元抢价值296元享悦康养套餐~含60分钟足浴+自助餐+美甲
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-20 00:00:00'
+  business: 【南宁】仙庙烧鸡
+  city: '1313'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-15 23:59:59'
+  img_list: 7FCD5A7922D92AC7.png,C7795A452D350DB0.png,630321222BA55C9A.jpg,ED67E32747549CCF.jpg,C8F7761E67148FBB.jpg
+  img_main: CAC34611A62DE9FE.gif
+  img_main_small: BD2FF9B8940A68CE.jpg
+  img_poster: 03CF924837710ADC.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【兴宁区·朝阳广场】不用10元就买到1只鸡~赚到偷笑~仅9.9元抢门市价84元套餐~仙庙烧鸡1只（2-2.8斤）+任选饮料1份~
+  off_shelf_time: '2020-07-16 06:00:00'
+  pay_ways: 3.2.2
+  province: '30'
+  status: 0
+- begin_time: '2020-06-20 20:00:00'
+  business: 熊猫不走创意火锅沾沾乐蛋糕
+  city: '1261'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: 8766BDC629F6D56E.jpg,CEE11EF8AD986F36.jpg,9DF6916566D23CAD.jpg,E0B4561582092F69.jpg,29C0252BC79D432E.jpg
+  img_main: 69CB55FF56703114.jpg
+  img_main_small: 3865E11331C2AE36.jpg
+  img_poster: 46554BAD834345B7.png
+  img_poster_type: 0
+  is_display_pageviews: 1
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【熊猫不走】蛋糕遇上火锅？玩着吃“沾沾乐”~108元抢门市价268元创意火锅沾沾乐蛋糕2磅~款式3选1~武汉城区免费配送到家
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-20 00:00:00'
+  business: 中健健身周卡
+  city: '1278'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-05 23:59:59'
+  img_list: 9FC4B5D0C35EF153.jpg,F1BA063AF893DD31.jpg,3DFBDD53C90B074B.jpg,B1AEFBDB553C3FC1.jpg,D7A6CB8017BB8C32.jpg
+  img_main: 70DAB4E0850ACF49.png
+  img_main_small: 9B47AC5C35C9B206.png
+  img_poster: D81689B3FB039208.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 1
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【天心区/雨花区·2店通用】拥有完美曲线~仅19.9元抢价值1000元中健健身单人卡套餐~7天不限次健身~游泳~私教教学~
+  off_shelf_time: '2020-07-06 06:00:00'
+  pay_ways: 3.2.2
+  province: '28'
+  status: 0
+- begin_time: '2020-06-20 18:05:37'
+  business: 55捌老火锅
+  city: '1348'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-10 00:00:00'
+  img_list: B344BB4CD6CEE16C.jpeg,CDD480D792F6429C.jpeg,2269A23CFEEBB4B9.jpeg,B9CA08BC1EEFF3FF.jpeg
+  img_main: 353D9A0AA8EE3F20.gif
+  img_main_small: D64D4259C8FF5E93.png
+  img_poster: 3DD1092387E1B7EE.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 0
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【锦江区·免预约】老板放大招啦！2.8折抢8荤6素+锅底油碟~仅68元抢价值240元55捌老火锅4人套餐~全是特色菜，手慢无！
+  off_shelf_time: '2020-07-11 06:00:00'
+  pay_ways: 3.2.2
+  province: '32'
+  status: 0
+- begin_time: '2020-06-20 00:00:00'
+  business: 亿邦环球主题乐园
+  city: '1268'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-07-25 23:59:59'
+  img_list: 96420114968A929B.jpg,87CFA38E1A5AC57E.jpg,312193FFF710A923.jpg,499BA1909F08A65B.jpg,3A231CE8CD780360.jpg
+  img_main: E1E98ACF37722EA2.gif
+  img_main_small: B7592784D6CC9D21.jpg
+  img_poster: 2C812A0FB4EE77B4.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 99
+  min_limit_count: 1
+  name: 【滨湖西路】多款网红打卡玩法~￥50抢门市价90元鄂州亿邦环球主题乐园成人套票~摇头飞椅+旋转木马+太空漫步+摩天轮等~
+  off_shelf_time: '2020-07-26 06:00:00'
+  pay_ways: 3.2.2
+  province: '27'
+  status: 0
+- begin_time: '2020-06-20 00:00:00'
+  business: 乐高MOC城市展
+  city: '1278'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: C571AF6E77196125.jpg,FF16E92057DDF848.jpg,CC26B07E74830781.jpg,A4603B23CC0EED94.jpg,3A3564E5CC40C482.jpg
+  img_main: 8BDD43108BD38078.jpg
+  img_main_small: D8D4B43974F1BBA6.jpg
+  img_poster: 41EF9328FEDB9EF1.png
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【步步高梅溪新天地】29.9元抢乐高MOC城市展亲子早鸟票1大1小~1，000,000块积木想象粒组成的方块之城~智力+体力
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '28'
+  status: 0
+- begin_time: '2020-06-20 00:00:00'
+  business: 庭苑味道
+  city: '1313'
+  class: dzm
+  countdown_value: 72
+  country: '0'
+  end_time: '2020-06-30 23:59:59'
+  img_list: 8F48A1D530484B0D.png,AA6260D70B9CA3D7.png,466019FD2CBCF50E.png,88269D294A5CF028.png,7BD177A64E532BDA.png
+  img_main: 70026EB01F8457C2.gif
+  img_main_small: 198193CDF92BA9F9.jpg
+  img_poster: EF134404BB41893B.jpg
+  img_poster_type: 0
+  is_display_pageviews: 0
+  is_show_countdown: 1
+  is_sub_wechat: 0
+  limit_count: 9999
+  min_limit_count: 1
+  name: 【大唐天城•庭苑味道】29.9元抢门市价88元龙虾田螺煲~可无限叠加~49.9元抢门市价230元3人餐~7荤2素+2杯饮料~
+  off_shelf_time: '2020-07-01 06:00:00'
+  pay_ways: 3.2.2
+  province: '30'
+  status: 0
