@@ -7,11 +7,8 @@ def getUrl():
     return url
 
 def getHeaders():
+
     header = readYaml("headers.yaml")
 
     return header
 
-
-def test():
-    r = getUrl()
-    print(r[0]["url"])
