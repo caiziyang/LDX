@@ -7,24 +7,32 @@ class getProductQuery(object):
     def productQuery(self, pagesize: int, method, url, headers, productRequstesLists):
 
         productList = []
-        params = {"pagenumber": 1, "pagesize": pagesize}
+        params = {"pagenumber": 1, "pagesize": pagesize, "variables[product_class]": "dzm"}
 
         re = HttpRequest.http_request(method, url, params, headers)
+
 
         # 数据清理
 
         for i in range(pagesize):
-
             productInformationList = []
+
+            newProductRequstesLists = []
 
             for productRequstesList in productRequstesLists:
                 products = re['result']['rows'][i]
-
-                product = products[productRequstesList]
-
+                try:
+                    product = products[productRequstesList]
+                except KeyError:
+                    continue
                 productInformationList.append(product)
 
-            product2 = dict(zip(productRequstesLists, productInformationList))
+                if productRequstesList == 'class':
+                    newProductRequstesLists.append('variables[' + 'product_'+productRequstesList + ']')
+                else:
+                    newProductRequstesLists.append('variables[' + productRequstesList + ']')
+
+            product2 = dict(zip(newProductRequstesLists, productInformationList))
 
             productList.append(product2)
 
@@ -52,21 +60,21 @@ class getProductQuery(object):
     # 获取商品规格信息请求
     def getSku(self, productIds, method, url, headers):
 
-        productSkuList = []
+        productSku = []
 
         for productId in productIds:
             params = {'variables[product_id]': productId}
 
             re = HttpRequest.http_request(method, url, params, headers)
-
             # 数据清理
-            productSkuLists = re['result']['rows']
+            productSku = re['result']['rows']
 
-            productSkuList.append(productSkuLists)
+            productSku.append(productSku)
 
-        return {'productSku': productSkuList}
+        return {'productSku': productSku}
 
     # 获取商品规格详细信息请求
+
     def getSkuList(self, productIds, method, url):
 
         productSkuList = []

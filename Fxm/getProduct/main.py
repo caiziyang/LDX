@@ -1,7 +1,8 @@
+import requests
 
 from Fxm.getProduct.getProductQuery import getProductQuery
 from Fxm.data.rwYaml import writeDate, readYaml
-
+from Fxm.getProduct.NewProduct import NewProduct
 
 from Fxm.data.readRequestParameter import getUrl, getHeaders
 
@@ -13,11 +14,10 @@ def testProduct():
                             'off_shelf_time', 'is_show_countdown', 'countdown_value', 'is_sub_wechat',
                             'img_poster_type', 'class', 'is_display_pageviews']
 
-    size = 20
+    size = 1
     url = getUrl()[0]['url']
     headers = getHeaders()[0]
     method = getUrl()[0]['method']
-
 
     gtq = getProductQuery()
     name = getProductQuery().productQuery.__name__
@@ -69,11 +69,18 @@ def test_sku_list():
 
 
 
-def test():
+def test_new_product():
+    addProduct = NewProduct().add_dzm_product()
+    print(addProduct)
+    product_id = addProduct['result']['id']
+    product_code = addProduct['result']['product_code']
 
-    productDitail = readYaml("DatagetProductQueryDetail.yaml")
+    addsku = NewProduct().add_sku(product_id, product_code)
+    print(addsku)
 
-    print(productDitail['detail_html'])
+def test_new_sku():
+    ...
+
 
 
 

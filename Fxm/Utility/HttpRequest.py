@@ -4,7 +4,7 @@ class HttpRequest:
     利用request封装get请求和post请求
     '''
 
-    def http_request(self, method, url, data, headers=None):
+    def http_request(method, url, data, headers=None):
 
         '''
         :param
@@ -16,8 +16,7 @@ class HttpRequest:
         if method == "get":
             response = requests.get(url, params=data, headers=headers)
         elif method == "post":
-            response = requests.post(url, data=data, headers=headers)
-
+            response = requests.post(url, params=data, headers=headers)
         else:
             return 0
         return response.json()

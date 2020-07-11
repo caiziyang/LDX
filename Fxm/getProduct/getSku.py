@@ -2,6 +2,7 @@ import  requests
 
 
 def getSku(proIds):
+
     list = []
     url = 'https://m.lhs11.com/fxm/services/local/fxm/product/product@query_sku.japi'
 
