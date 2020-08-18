@@ -72,11 +72,11 @@ def test_sku_list():
 def test_new_product():
     addProduct = NewProduct().add_dzm_product()
     print(addProduct)
-    product_id = addProduct['result']['id']
-    product_code = addProduct['result']['product_code']
-
-    addsku = NewProduct().add_sku(product_id, product_code)
-    print(addsku)
+    # product_id = addProduct['result']['id']
+    # product_code = addProduct['result']['product_code']
+    #
+    # addsku = NewProduct().add_sku(product_id, product_code)
+    # print(addsku)
 
 def test_new_sku():
     ...

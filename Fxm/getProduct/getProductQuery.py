@@ -7,7 +7,40 @@ class getProductQuery(object):
     def productQuery(self, pagesize: int, method, url, headers, productRequstesLists):
 
         productList = []
-        params = {"pagenumber": 1, "pagesize": pagesize, "variables[product_class]": "dzm"}
+        params = {
+            "order": "asc",
+            "limit": 30,
+            "offset": 0,
+            "method": "query",
+            "params": {
+            "pagenumber": 1,
+            "pagesize": pagesize,
+            "variables": {
+            "begin_time": "",
+            "end_time": "",
+            "crazy_begin_time": "",
+            "crazy_end_time": "",
+            "begin_os_time": "",
+            "end_os_time": "",
+            "shelf_begin_time": "",
+            "shelf_end_time": "",
+            "product_code": "6O7Q25",
+            "name": "",
+            "dzm_product_id": "",
+            "dzm_product_name": "",
+            "singerName": "",
+            "shelver": "",
+            "creator": "",
+            "business": "",
+            "sourcing_id": "",
+            "status": "",
+            "quantity": "",
+            "label_name": "",
+            "product_class": "",
+            "apiProduct": ""
+            }
+            }
+            }
 
         re = HttpRequest.http_request(method, url, params, headers)
 

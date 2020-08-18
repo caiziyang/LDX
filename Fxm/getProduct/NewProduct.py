@@ -3,8 +3,8 @@ import requests
 from Fxm.data.rwYaml import writeDate, readYaml
 
 from Fxm.data.readRequestParameter import getUrl, getHeaders
-class NewProduct(object):
 
+class NewProduct(object):
     def add_dzm_product(self):
         reads = readYaml("DataproductQuery.yaml")
         for data in reads:
@@ -12,7 +12,7 @@ class NewProduct(object):
             headers = getHeaders()[1]
             method = getUrl()[4]['method']
             res = HttpRequest.http_request(method, url, data, headers)
-            return res
+        return res
 
     def add_sku(self, product_id,product_code):
         url = getUrl()[5]['url']

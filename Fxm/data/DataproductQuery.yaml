@@ -1,22 +1,22 @@
-- variables[begin_time]: '2020-07-11 15:33:59'
-  variables[business]: 长白山烧烤城
-  variables[city]: '13'
+- variables[begin_time]: '2020-08-18 00:00:00'
+  variables[business]: 【南宁】HI JUMP蹦床主题公园•白沙店
+  variables[city]: '1313'
   variables[countdown_value]: 72
   variables[country]: '0'
-  variables[end_time]: '2020-07-25 23:59:29'
-  variables[img_list]: 9AB684BD71A17714.jpg,F50A6327DEC8AB09.jpg
-  variables[img_main]: FEC3D727BD5F22B3.jpeg
-  variables[img_main_small]: EA8DA5F591D5DC7B.jpeg
-  variables[img_poster]: 6B8CD80E03F7773E.png
+  variables[end_time]: '2020-08-28 00:00:00'
+  variables[img_list]: A785275943867843.jpg,592A1DA07FDE6F42.jpg,C328BDA5855389C4.jpg,6A35DE471AD7BDD0.jpg,00646F33E0A6D880.jpg
+  variables[img_main]: 98BAB4E275D2C0BA.jpg
+  variables[img_main_small]: 510FE3DEC84A8C64.jpg
+  variables[img_poster]: A9CEF6BCF3771E6B.jpg
   variables[img_poster_type]: 0
   variables[is_display_pageviews]: 0
-  variables[is_show_countdown]: 0
+  variables[is_show_countdown]: 1
   variables[is_sub_wechat]: 0
-  variables[limit_count]: 99
+  variables[limit_count]: 9999
   variables[min_limit_count]: 1
-  variables[name]: 【渝北区·郑家院子】舌尖上的东北！~仅79.9元抢价值188元长白山烧烤城2-3人餐~麻辣小龙虾+芥末花甲等N种菜品
-  variables[off_shelf_time]: '2020-07-26 06:00:00'
+  variables[name]: 「白沙HI JUMP蹦床主题公园」蹦迪不如蹦床！打卡健身两不误！仅29.9元抢价值88元儿童单人畅玩票1张~欢乐蹦床等N多项目~
+  variables[off_shelf_time]: '2020-08-29 06:00:00'
   variables[pay_ways]: 3.2.2
   variables[product_class]: dzm
-  variables[province]: '13'
+  variables[province]: '30'
   variables[status]: 0

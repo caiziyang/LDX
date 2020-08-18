@@ -16,7 +16,12 @@ class HttpRequest:
         if method == "get":
             response = requests.get(url, params=data, headers=headers)
         elif method == "post":
-            response = requests.post(url, params=data, headers=headers)
+            response = requests.post(url, json=data, headers=headers)
         else:
-            return 0
-        return response.json()
+            return {"massage error"}
+        try:
+            if response.json()["error"] is not None:
+                response = requests.post(url, params=data, headers=headers)
+                return response.json()
+        except KeyError:
+            return response.json()
