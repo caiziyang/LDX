@@ -1,0 +1,1982 @@
+productSkuList:
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161330'
+    axt_cprice: 17.9
+    axt_sprice: 0.0
+    cost_price: 318.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179495
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90927
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179495
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90927
+    - control: 2
+      customized_group_id: 179495
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90927
+    gmt_create: '2020-06-15 17:11:48'
+    gmt_modified: '2020-06-15 17:11:48'
+    gp_status: 0
+    id: 90927
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 50
+    offset: 8
+    ori_price: 488.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 358.0
+    price01: 62.5
+    price02: 37.5
+    product_class: dzm
+    product_code: JTBYVW
+    product_id: 262972
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38721
+    rebate_rule: '4.1'
+    rebate_total: 25.6
+    rebate_type: 3
+    saled_num: 0
+    score: 358.0
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $红安县帝王湖:$酒店周末住宿套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 17:11:48'
+      gmt_modified: '2020-06-15 17:11:48'
+      group_rebate_minor_agency: 9.6
+      group_rebate_senior: 9.6
+      group_rebate_share: 9.6
+      group_rebate_super: 9.6
+      id: 38721
+      rebate_mode: 0
+      senior_grand_rebate_senior: 6.4
+      senior_grand_rebate_share: 6.4
+      senior_grand_rebate_super: 6.4
+      shop_rebate_agency: 28.8
+      shop_rebate_minor_agency: 16.0
+      shop_rebate_senior: 28.8
+      shop_rebate_share: 16.0
+      shop_rebate_super: 25.6
+      super_grand_rebate_senior: 3.2
+      super_grand_rebate_share: 3.2
+      super_grand_rebate_super: 3.2
+      total_rebate: -1.0
+    sku_id: '91827'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 33.3333
+  - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161328'
+    axt_cprice: 16.9
+    axt_sprice: 0.0
+    cost_price: 298.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179492
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90924
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179492
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90924
+    - control: 2
+      customized_group_id: 179492
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90924
+    gmt_create: '2020-06-15 17:11:01'
+    gmt_modified: '2020-06-15 22:20:31'
+    gp_status: 0
+    id: 90924
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 50
+    offset: 8
+    ori_price: 488.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 338.0
+    price01: 62.5
+    price02: 37.5
+    product_class: dzm
+    product_code: JTBYVW
+    product_id: 262972
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38718
+    rebate_rule: '4.1'
+    rebate_total: 25.6
+    rebate_type: 3
+    saled_num: 0
+    score: 338.0
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $红安县帝王湖:$酒店平日住宿套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 17:11:01'
+      gmt_modified: '2020-06-15 17:11:01'
+      group_rebate_minor_agency: 9.6
+      group_rebate_senior: 9.6
+      group_rebate_share: 9.6
+      group_rebate_super: 9.6
+      id: 38718
+      rebate_mode: 0
+      senior_grand_rebate_senior: 6.4
+      senior_grand_rebate_share: 6.4
+      senior_grand_rebate_super: 6.4
+      shop_rebate_agency: 28.8
+      shop_rebate_minor_agency: 16.0
+      shop_rebate_senior: 28.8
+      shop_rebate_share: 16.0
+      shop_rebate_super: 25.6
+      super_grand_rebate_senior: 3.2
+      super_grand_rebate_share: 3.2
+      super_grand_rebate_super: 3.2
+      total_rebate: -1.0
+    sku_id: '91825'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 33.3333
+  - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161326'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 37.0
+    cur_kc_left: 1000
+    customizedGroup:
+    - follow_change: 0
+      id: 179491
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90923
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179491
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90923
+    - control: 2
+      customized_group_id: 179491
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90923
+    gmt_create: '2020-06-15 17:09:43'
+    gmt_modified: '2020-06-15 17:09:43'
+    gp_status: 0
+    id: 90923
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 50
+    offset: 8
+    ori_price: 58.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 45.0
+    price01: 62.5
+    price02: 37.5
+    product_class: dzm
+    product_code: JTBYVW
+    product_id: 262972
+    quantity: 1000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38717
+    rebate_rule: '4.1'
+    rebate_total: 4.8
+    rebate_type: 3
+    saled_num: 0
+    score: 45.0
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $红安县帝王湖:$欢乐水世界单人门票
+    skuRebate:
+    - gmt_create: '2020-06-15 17:09:43'
+      gmt_modified: '2020-06-15 17:09:43'
+      group_rebate_minor_agency: 1.8
+      group_rebate_senior: 1.8
+      group_rebate_share: 1.8
+      group_rebate_super: 1.8
+      id: 38717
+      rebate_mode: 0
+      senior_grand_rebate_senior: 1.2
+      senior_grand_rebate_share: 1.2
+      senior_grand_rebate_super: 1.2
+      shop_rebate_agency: 5.4
+      shop_rebate_minor_agency: 3.0
+      shop_rebate_senior: 5.4
+      shop_rebate_share: 3.0
+      shop_rebate_super: 4.8
+      super_grand_rebate_senior: 0.6
+      super_grand_rebate_share: 0.6
+      super_grand_rebate_super: 0.6
+      total_rebate: -1.0
+    sku_id: '91824'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 33.3333
+- - address: 0
+    agency_price01: 400.0
+    agency_price02: 900.0
+    api_data: '161320'
+    axt_cprice: 3.0
+    axt_sprice: 0.0
+    cost_price: 30.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179457
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90892
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179457
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90892
+    - control: 2
+      customized_group_id: 179457
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90892
+    gmt_create: '2020-06-15 16:17:10'
+    gmt_modified: '2020-06-17 18:43:30'
+    gp_status: 0
+    id: 90892
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 100
+    offset: 0
+    ori_price: 598.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 59.9
+    price01: 83.3333
+    price02: 16.6667
+    product_class: dzm
+    product_code: ZDWU86
+    product_id: 262971
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38686
+    rebate_rule: '4.1'
+    rebate_total: 12.0
+    rebate_type: 3
+    saled_num: 2
+    score: 59.9
+    senior_grand_rebate: 100.0
+    senior_special_rebate: -100.0
+    sku: $久善美兮:$59.9元=保养套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 16:17:10'
+      gmt_modified: '2020-06-15 16:17:10'
+      group_rebate_minor_agency: 8.0
+      group_rebate_senior: 2.0
+      group_rebate_share: 2.0
+      group_rebate_super: 2.0
+      id: 38686
+      rebate_mode: 0
+      senior_grand_rebate_senior: 2.0
+      senior_grand_rebate_share: 2.0
+      senior_grand_rebate_super: 2.0
+      shop_rebate_agency: 18.0
+      shop_rebate_minor_agency: 10.0
+      shop_rebate_senior: 14.0
+      shop_rebate_share: 10.0
+      shop_rebate_super: 14.0
+      super_grand_rebate_senior: 1.0
+      super_grand_rebate_share: 1.0
+      super_grand_rebate_super: 1.0
+      total_rebate: -1.0
+    sku_id: '91796'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 50.0
+  - address: 0
+    agency_price01: 200.0
+    agency_price02: 500.0
+    api_data: '161319'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 0.0
+    cur_kc_left: 200
+    customizedGroup:
+    - follow_change: 0
+      id: 179456
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90891
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179456
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90891
+    - control: 2
+      customized_group_id: 179456
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90891
+    gmt_create: '2020-06-15 16:16:31'
+    gmt_modified: '2020-06-18 18:46:01'
+    gp_status: 0
+    id: 90891
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 200
+    min_kc_num: 100
+    offset: 58
+    ori_price: 598.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 9.9
+    price01: 75.0
+    price02: 25.0
+    product_class: dzm
+    product_code: ZDWU86
+    product_id: 262971
+    quantity: 200
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38685
+    rebate_rule: '4.1'
+    rebate_total: 4.0
+    rebate_type: 3
+    saled_num: 1
+    score: 9.9
+    senior_grand_rebate: 100.0
+    senior_special_rebate: -100.0
+    sku: $久善美兮:$9.9元=补水套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 16:16:31'
+      gmt_modified: '2020-06-15 16:16:31'
+      group_rebate_minor_agency: 2.0
+      group_rebate_senior: 1.0
+      group_rebate_share: 1.0
+      group_rebate_super: 1.0
+      id: 38685
+      rebate_mode: 0
+      senior_grand_rebate_senior: 1.0
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 1.0
+      shop_rebate_agency: 5.0
+      shop_rebate_minor_agency: 3.0
+      shop_rebate_senior: 4.0
+      shop_rebate_share: 3.0
+      shop_rebate_super: 4.0
+      super_grand_rebate_senior: 0.5
+      super_grand_rebate_share: 0.5
+      super_grand_rebate_super: 0.5
+      total_rebate: -1.0
+    sku_id: '91795'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 50.0
+- - address: 0
+    agency_price01: 200.0
+    agency_price02: 450.0
+    api_data: '2270'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cur_kc_left: 9999999
+    customizedGroup:
+    - follow_change: 0
+      id: 179587
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90910
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179587
+      follow_change: 0
+      must: 1
+      name: 真实姓名
+      num: 1
+      sku_list_id: 90910
+    - control: 2
+      customized_group_id: 179587
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90910
+    gmt_create: '2020-06-15 16:46:33'
+    gmt_modified: '2020-06-16 09:17:36'
+    gp_status: 1
+    id: 90910
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 0
+    min_kc_num: 0
+    offset: 100
+    permit_name_num: 0
+    permit_num: 0
+    price: 49.0
+    price01: 66.6667
+    price02: 33.3333
+    product_class: scm
+    product_code: SD9MGW
+    product_id: 262970
+    quantity: 9999999
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38704
+    rebate_rule: '4.1'
+    rebate_total: 6.0
+    rebate_type: 3
+    saled_num: 0
+    senior_grand_rebate: 50.0
+    senior_special_rebate: -100.0
+    sku: $洛阳灵山莲花温泉度假区:$灵山莲花水城水乐园+莲花公园一票通
+    skuRebate:
+    - gmt_create: '2020-06-15 16:46:33'
+      gmt_modified: '2020-06-15 16:46:33'
+      group_rebate_minor_agency: 4.0
+      group_rebate_senior: 1.0
+      group_rebate_share: 2.0
+      group_rebate_super: 1.0
+      id: 38704
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.5
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 0.5
+      shop_rebate_agency: 9.0
+      shop_rebate_minor_agency: 4.0
+      shop_rebate_senior: 8.0
+      shop_rebate_share: 4.0
+      shop_rebate_super: 8.0
+      super_grand_rebate_senior: 0.3
+      super_grand_rebate_share: 1.0
+      super_grand_rebate_super: 0.3
+      total_rebate: -1.0
+    sku_id: '91813'
+    special_count: 0
+    special_rebate: -50.0
+    status: 0
+    super_grand_rebate: 50.0
+- - address: 0
+    agency_price01: 166.6667
+    agency_price02: 300.0
+    api_data: '161473'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 8.3
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179741
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 91065
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179741
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 91065
+    - control: 2
+      customized_group_id: 179741
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 91065
+    - control: 10
+      customized_group_id: 179741
+      follow_change: 0
+      must: 1
+      name: 地址
+      num: 1
+      sku_list_id: 91065
+    - control: 6
+      customized_group_id: 179741
+      follow_change: 0
+      key_value: '{"0":"棕色","1":"卡其色","2":"黑色","3":"绿色"}'
+      must: 1
+      name: 颜色
+      num: 1
+      sku_list_id: 91065
+    - control: 6
+      customized_group_id: 179741
+      follow_change: 0
+      key_value: '{"0":"36码","1":"37码","2":"38码","3":"39码","4":"40码"}'
+      must: 1
+      name: 码数
+      num: 1
+      sku_list_id: 91065
+    gmt_create: '2020-06-16 14:56:02'
+    gmt_modified: '2020-06-20 17:28:00'
+    gp_status: 0
+    id: 91065
+    idcard: 0
+    is_area_limit: 1
+    is_support_axt: 0
+    max_kc_num: 468
+    min_kc_num: 50
+    offset: 32
+    permit_name_num: 0
+    permit_num: 0
+    price: 14.9
+    price01: 62.5
+    price02: 37.5
+    product_class: gds
+    product_code: GPR76M
+    product_id: 262969
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38860
+    rebate_rule: '4.1'
+    rebate_total: 4.0
+    rebate_type: 3
+    saled_num: 51
+    score: 14.9
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $2020新款休闲低跟懒人尖头凉鞋:$14.9元/双
+    skuRebate:
+    - gmt_create: '2020-06-16 14:56:02'
+      gmt_modified: '2020-06-16 14:56:02'
+      group_rebate_minor_agency: 2.5
+      group_rebate_senior: 0.5
+      group_rebate_share: 1.5
+      group_rebate_super: 0.5
+      id: 38860
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.25
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 0.25
+      shop_rebate_agency: 4.5
+      shop_rebate_minor_agency: 2.0
+      shop_rebate_senior: 4.25
+      shop_rebate_share: 2.5
+      shop_rebate_super: 4.0
+      super_grand_rebate_senior: 0.13
+      super_grand_rebate_share: 0.5
+      super_grand_rebate_super: 0.13
+      total_rebate: 5.0
+    sku_id: '91968'
+    special_count: 0
+    special_rebate: -66.6667
+    status: 0
+    super_grand_rebate: 33.3333
+  - address: 0
+    agency_price01: 100.0
+    agency_price02: 100.0
+    api_data: '161318'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 8.3
+    cur_kc_left: 9999
+    customizedGroup:
+    - follow_change: 0
+      id: 179740
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90890
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179740
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90890
+    - control: 2
+      customized_group_id: 179740
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90890
+    - control: 10
+      customized_group_id: 179740
+      follow_change: 0
+      must: 1
+      name: 地址
+      num: 1
+      sku_list_id: 90890
+    - control: 6
+      customized_group_id: 179740
+      follow_change: 0
+      key_value: '{"0":"棕色","1":"卡其色","2":"黑色","3":"绿色"}'
+      must: 1
+      name: 颜色
+      num: 1
+      sku_list_id: 90890
+    - control: 6
+      customized_group_id: 179740
+      follow_change: 0
+      key_value: '{"0":"36码","1":"37码","2":"38码","3":"39码","4":"40码"}'
+      must: 1
+      name: 码数
+      num: 1
+      sku_list_id: 90890
+    gmt_create: '2020-06-15 16:12:36'
+    gmt_modified: '2020-06-16 14:55:00'
+    gp_status: 0
+    id: 90890
+    idcard: 0
+    is_area_limit: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 50
+    offset: 32
+    permit_name_num: 0
+    permit_num: 0
+    price: 9.9
+    price01: 50.0
+    price02: 50.0
+    product_class: gds
+    product_code: GPR76M
+    product_id: 262969
+    quantity: 10000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38684
+    rebate_rule: '4.1'
+    rebate_total: 0.02
+    rebate_type: 3
+    saled_num: 1
+    score: 9.9
+    senior_grand_rebate: 100.0
+    senior_special_rebate: -100.0
+    sku: $2020新款休闲低跟懒人尖头凉鞋:$9.9元/双
+    skuRebate:
+    - gmt_create: '2020-06-15 16:12:36'
+      gmt_modified: '2020-06-15 16:12:36'
+      group_rebate_minor_agency: 0.01
+      group_rebate_senior: 0.01
+      group_rebate_share: 0.01
+      group_rebate_super: 0.01
+      id: 38684
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.01
+      senior_grand_rebate_share: 0.01
+      senior_grand_rebate_super: 0.01
+      shop_rebate_agency: 0.01
+      shop_rebate_minor_agency: 0.0
+      shop_rebate_senior: 0.01
+      shop_rebate_share: 0.01
+      shop_rebate_super: 0.01
+      super_grand_rebate_senior: 0.01
+      super_grand_rebate_share: 0.01
+      super_grand_rebate_super: 0.01
+      total_rebate: -1.0
+    sku_id: '91794'
+    special_count: 0
+    special_rebate: 0.0
+    status: 1
+    super_grand_rebate: 100.0
+- - address: 0
+    agency_price01: 200.0
+    agency_price02: 400.0
+    api_data: '2234'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cur_kc_left: 9999999
+    customizedGroup:
+    - follow_change: 0
+      id: 179588
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90904
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179588
+      follow_change: 0
+      must: 1
+      name: 真实姓名
+      num: 1
+      sku_list_id: 90904
+    - control: 2
+      customized_group_id: 179588
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90904
+    gmt_create: '2020-06-15 16:39:02'
+    gmt_modified: '2020-06-21 14:44:15'
+    gp_status: 0
+    id: 90904
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 0
+    min_kc_num: 0
+    offset: 100
+    permit_name_num: 0
+    permit_num: 0
+    price: 45.0
+    price01: 60.0
+    price02: 40.0
+    product_class: scm
+    product_code: 9XUEKV
+    product_id: 262968
+    quantity: 9999999
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38698
+    rebate_rule: '4.1'
+    rebate_total: 5.0
+    rebate_type: 3
+    saled_num: 3
+    senior_grand_rebate: 50.0
+    senior_special_rebate: -100.0
+    sku: $龙华水上乐园不限时畅玩门票:$龙华水上乐园不限时畅玩门票
+    skuRebate:
+    - gmt_create: '2020-06-15 16:39:02'
+      gmt_modified: '2020-06-15 16:39:02'
+      group_rebate_minor_agency: 4.0
+      group_rebate_senior: 1.0
+      group_rebate_share: 2.0
+      group_rebate_super: 1.0
+      id: 38698
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.5
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 0.5
+      shop_rebate_agency: 8.0
+      shop_rebate_minor_agency: 3.0
+      shop_rebate_senior: 7.0
+      shop_rebate_share: 3.0
+      shop_rebate_super: 7.0
+      super_grand_rebate_senior: 0.3
+      super_grand_rebate_share: 1.0
+      super_grand_rebate_super: 0.3
+      total_rebate: -1.0
+    sku_id: '91807'
+    special_count: 0
+    special_rebate: -50.0
+    status: 0
+    super_grand_rebate: 50.0
+- - address: 0
+    agency_price01: 166.6667
+    agency_price02: 300.0
+    api_data: '161317'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 12.5
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179452
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90888
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179452
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90888
+    - control: 2
+      customized_group_id: 179452
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90888
+    - control: 10
+      customized_group_id: 179452
+      follow_change: 0
+      must: 1
+      name: 地址
+      num: 1
+      sku_list_id: 90888
+    gmt_create: '2020-06-15 16:02:57'
+    gmt_modified: '2020-06-15 16:02:57'
+    gp_status: 0
+    id: 90888
+    idcard: 0
+    is_area_limit: 1
+    is_support_axt: 0
+    max_kc_num: 468
+    min_kc_num: 50
+    offset: 32
+    permit_name_num: 0
+    permit_num: 0
+    price: 19.9
+    price01: 62.5
+    price02: 37.5
+    product_class: gds
+    product_code: EQ8NQA
+    product_id: 262967
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38682
+    rebate_rule: '4.1'
+    rebate_total: 3.2
+    rebate_type: 3
+    saled_num: 0
+    score: 19.9
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $威宁小土豆:$19.9元/5斤
+    skuRebate:
+    - gmt_create: '2020-06-15 16:02:57'
+      gmt_modified: '2020-06-15 16:02:57'
+      group_rebate_minor_agency: 2.0
+      group_rebate_senior: 0.4
+      group_rebate_share: 1.2
+      group_rebate_super: 0.4
+      id: 38682
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.2
+      senior_grand_rebate_share: 0.8
+      senior_grand_rebate_super: 0.2
+      shop_rebate_agency: 3.6
+      shop_rebate_minor_agency: 1.6
+      shop_rebate_senior: 3.4
+      shop_rebate_share: 2.0
+      shop_rebate_super: 3.2
+      super_grand_rebate_senior: 0.1
+      super_grand_rebate_share: 0.4
+      super_grand_rebate_super: 0.1
+      total_rebate: 4.0
+    sku_id: '91793'
+    special_count: 0
+    special_rebate: -66.6667
+    status: 0
+    super_grand_rebate: 33.3333
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 266.6667
+    api_data: '161316'
+    axt_cprice: 7.45
+    axt_sprice: 0.0
+    cost_price: 131.0
+    cur_kc_left: 200
+    customizedGroup:
+    - follow_change: 0
+      id: 179450
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90886
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179450
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90886
+    - control: 2
+      customized_group_id: 179450
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90886
+    gmt_create: '2020-06-15 15:59:13'
+    gmt_modified: '2020-06-20 18:53:10'
+    gp_status: 0
+    id: 90886
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 200
+    min_kc_num: 100
+    offset: 100
+    ori_price: 354.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 149.0
+    price01: 62.5
+    price02: 37.5
+    product_class: dzm
+    product_code: YRY7DE
+    product_id: 262966
+    quantity: 200
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38680
+    rebate_rule: '4.1'
+    rebate_total: 9.6
+    rebate_type: 3
+    saled_num: 7
+    score: 149.0
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $杨光会鲜货火锅:$149元3人餐
+    skuRebate:
+    - gmt_create: '2020-06-15 15:59:13'
+      gmt_modified: '2020-06-15 15:59:13'
+      group_rebate_minor_agency: 3.6
+      group_rebate_senior: 3.6
+      group_rebate_share: 3.6
+      group_rebate_super: 3.6
+      id: 38680
+      rebate_mode: 0
+      senior_grand_rebate_senior: 2.4
+      senior_grand_rebate_share: 2.4
+      senior_grand_rebate_super: 2.4
+      shop_rebate_agency: 9.6
+      shop_rebate_minor_agency: 6.0
+      shop_rebate_senior: 9.6
+      shop_rebate_share: 6.0
+      shop_rebate_super: 8.4
+      super_grand_rebate_senior: 1.2
+      super_grand_rebate_share: 1.2
+      super_grand_rebate_super: 1.2
+      total_rebate: -1.0
+    sku_id: '91788'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 33.3333
+- []
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161322'
+    axt_cprice: 2.95
+    axt_sprice: 0.0
+    cost_price: 40.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179461
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90896
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179461
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90896
+    - control: 2
+      customized_group_id: 179461
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90896
+    gmt_create: '2020-06-15 16:23:21'
+    gmt_modified: '2020-06-21 12:49:39'
+    gp_status: 0
+    id: 90896
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 332
+    min_kc_num: 200
+    offset: 168
+    ori_price: 138.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 59.0
+    price01: 66.6667
+    price02: 33.3333
+    product_class: dzm
+    product_code: NGZ3FM
+    product_id: 262964
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38690
+    rebate_rule: '4.1'
+    rebate_total: 9.0
+    rebate_type: 3
+    saled_num: 37
+    score: 59.0
+    senior_grand_rebate: 33.3333
+    senior_special_rebate: -100.0
+    sku: $翡记牛蛙:$2-3人套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 16:23:21'
+      gmt_modified: '2020-06-15 16:23:21'
+      group_rebate_minor_agency: 3.0
+      group_rebate_senior: 3.0
+      group_rebate_share: 3.0
+      group_rebate_super: 3.0
+      id: 38690
+      rebate_mode: 0
+      senior_grand_rebate_senior: 1.0
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 1.0
+      shop_rebate_agency: 9.0
+      shop_rebate_minor_agency: 6.0
+      shop_rebate_senior: 8.5
+      shop_rebate_share: 6.0
+      shop_rebate_super: 8.0
+      super_grand_rebate_senior: 0.5
+      super_grand_rebate_share: 0.5
+      super_grand_rebate_super: 0.5
+      total_rebate: -1.0
+    sku_id: '91802'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 16.6667
+- - address: 0
+    agency_price01: 380.0
+    agency_price02: 580.0
+    api_data: '161311'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 260.0
+    cur_kc_left: 1999
+    customizedGroup:
+    - follow_change: 0
+      id: 179483
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90887
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179483
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90887
+    - control: 2
+      customized_group_id: 179483
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90887
+    gmt_create: '2020-06-15 16:00:07'
+    gmt_modified: '2020-06-21 15:01:36'
+    gp_status: 0
+    id: 90887
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 300
+    offset: 200
+    ori_price: 656.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 299.0
+    price01: 66.6667
+    price02: 33.3333
+    product_class: dzm
+    product_code: Z5D66N
+    product_id: 262963
+    quantity: 2000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38681
+    rebate_rule: '4.1'
+    rebate_total: 15.0
+    rebate_type: 3
+    saled_num: 107
+    score: 299.0
+    senior_grand_rebate: 200.0
+    senior_special_rebate: -100.0
+    sku: $美盛喜来登大酒店·盛宴标帜餐厅:$299元=双人自助餐
+    skuRebate:
+    - gmt_create: '2020-06-15 16:00:07'
+      gmt_modified: '2020-06-15 16:00:07'
+      group_rebate_minor_agency: 19.0
+      group_rebate_senior: 5.0
+      group_rebate_share: 5.0
+      group_rebate_super: 5.0
+      id: 38681
+      rebate_mode: 0
+      senior_grand_rebate_senior: 2.0
+      senior_grand_rebate_share: 10.0
+      senior_grand_rebate_super: 2.0
+      shop_rebate_agency: 29.0
+      shop_rebate_minor_agency: 10.0
+      shop_rebate_senior: 21.0
+      shop_rebate_share: 10.0
+      shop_rebate_super: 20.0
+      super_grand_rebate_senior: 1.0
+      super_grand_rebate_share: 5.0
+      super_grand_rebate_super: 1.0
+      total_rebate: -1.0
+    sku_id: '91791'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 100.0
+- - address: 0
+    agency_price01: 133.3333
+    agency_price02: 266.6667
+    api_data: '161314'
+    axt_cprice: 2.5
+    axt_sprice: 0.0
+    cost_price: 40.0
+    cur_kc_left: 200
+    customizedGroup:
+    - follow_change: 0
+      id: 179448
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90884
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179448
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90884
+    - control: 2
+      customized_group_id: 179448
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90884
+    gmt_create: '2020-06-15 15:57:52'
+    gmt_modified: '2020-06-21 10:30:45'
+    gp_status: 0
+    id: 90884
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 200
+    min_kc_num: 100
+    offset: 20
+    permit_name_num: 0
+    permit_num: 0
+    price: 49.9
+    price01: 57.1429
+    price02: 42.8571
+    product_class: dzm
+    product_code: 247XMT
+    product_id: 262962
+    quantity: 200
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38678
+    rebate_rule: '4.1'
+    rebate_total: 4.2
+    rebate_type: 3
+    saled_num: 35
+    score: 49.9
+    senior_grand_rebate: 100.0
+    senior_special_rebate: -100.0
+    sku: $手撕叫花鸡:$1整只
+    skuRebate:
+    - gmt_create: '2020-06-15 15:57:51'
+      gmt_modified: '2020-06-15 15:57:51'
+      group_rebate_minor_agency: 2.4
+      group_rebate_senior: 2.4
+      group_rebate_share: 1.8
+      group_rebate_super: 2.4
+      id: 38678
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.6
+      senior_grand_rebate_share: 1.8
+      senior_grand_rebate_super: 0.6
+      shop_rebate_agency: 4.8
+      shop_rebate_minor_agency: 2.4
+      shop_rebate_senior: 3.6
+      shop_rebate_share: 2.4
+      shop_rebate_super: 3.6
+      super_grand_rebate_senior: 0.3
+      super_grand_rebate_share: 0.9
+      super_grand_rebate_super: 0.3
+      total_rebate: -1.0
+    sku_id: '91789'
+    special_count: 0
+    special_rebate: 33.3333
+    status: 0
+    super_grand_rebate: 50.0
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161313'
+    axt_cprice: 14.4
+    axt_sprice: 0.0
+    cost_price: 230.0
+    cur_kc_left: 10000
+    customizedGroup:
+    - follow_change: 0
+      id: 179453
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90889
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179453
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90889
+    - control: 2
+      customized_group_id: 179453
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90889
+    gmt_create: '2020-06-15 16:03:58'
+    gmt_modified: '2020-06-17 17:31:11'
+    gp_status: 0
+    id: 90889
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 537
+    min_kc_num: 200
+    offset: 463
+    ori_price: 888.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 288.0
+    price01: 66.6667
+    price02: 33.3333
+    product_class: dzm
+    product_code: DR9N2X
+    product_id: 262961
+    quantity: 10000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38683
+    rebate_rule: '4.1'
+    rebate_total: 27.0
+    rebate_type: 3
+    saled_num: 4
+    score: 288.0
+    senior_grand_rebate: 33.3333
+    senior_special_rebate: -100.0
+    sku: $乌镇半望山精品民宿:$住宿套餐（4店通用）
+    skuRebate:
+    - gmt_create: '2020-06-15 16:03:58'
+      gmt_modified: '2020-06-15 16:03:58'
+      group_rebate_minor_agency: 9.0
+      group_rebate_senior: 9.0
+      group_rebate_share: 9.0
+      group_rebate_super: 9.0
+      id: 38683
+      rebate_mode: 0
+      senior_grand_rebate_senior: 3.0
+      senior_grand_rebate_share: 3.0
+      senior_grand_rebate_super: 3.0
+      shop_rebate_agency: 27.0
+      shop_rebate_minor_agency: 18.0
+      shop_rebate_senior: 25.5
+      shop_rebate_share: 18.0
+      shop_rebate_super: 24.0
+      super_grand_rebate_senior: 1.5
+      super_grand_rebate_share: 1.5
+      super_grand_rebate_super: 1.5
+      total_rebate: -1.0
+    sku_id: '91792'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 16.6667
+- - address: 0
+    agency_price01: 66.6667
+    agency_price02: 333.3333
+    api_data: '161312'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 30.0
+    cur_kc_left: 1999
+    customizedGroup:
+    - follow_change: 0
+      id: 179546
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90883
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179546
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90883
+    - control: 2
+      customized_group_id: 179546
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90883
+    gmt_create: '2020-06-15 15:56:06'
+    gmt_modified: '2020-06-19 12:48:30'
+    gp_status: 0
+    id: 90883
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 411
+    min_kc_num: 50
+    offset: 88
+    ori_price: 98.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 39.9
+    price01: 72.7273
+    price02: 27.2727
+    product_class: dzm
+    product_code: NB8A5G
+    product_id: 262960
+    quantity: 2000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38677
+    rebate_rule: '4.1'
+    rebate_total: 5.5
+    rebate_type: 3
+    saled_num: 2
+    score: 39.9
+    senior_grand_rebate: 13.3333
+    senior_special_rebate: -100.0
+    sku: $珑太白鲍鱼:$双人套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 15:56:06'
+      gmt_modified: '2020-06-15 15:56:06'
+      group_rebate_minor_agency: 1.0
+      group_rebate_senior: 1.0
+      group_rebate_share: 1.5
+      group_rebate_super: 1.0
+      id: 38677
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.2
+      senior_grand_rebate_share: 0.2
+      senior_grand_rebate_super: 0.2
+      shop_rebate_agency: 5.0
+      shop_rebate_minor_agency: 4.0
+      shop_rebate_senior: 5.0
+      shop_rebate_share: 4.0
+      shop_rebate_super: 5.0
+      super_grand_rebate_senior: 0.1
+      super_grand_rebate_share: 0.1
+      super_grand_rebate_super: 0.1
+      total_rebate: -1.0
+    sku_id: '91787'
+    special_count: 0
+    special_rebate: -33.3333
+    status: 0
+    super_grand_rebate: 6.6667
+- []
+- - address: 0
+    agency_price01: 166.6667
+    agency_price02: 300.0
+    api_data: '161308'
+    axt_cprice: 4.95
+    axt_sprice: 0.0
+    cost_price: 80.0
+    cur_kc_left: 1000
+    customizedGroup:
+    - follow_change: 0
+      id: 179442
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90880
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179442
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90880
+    - control: 2
+      customized_group_id: 179442
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90880
+    gmt_create: '2020-06-15 15:44:00'
+    gmt_modified: '2020-06-21 01:54:40'
+    gp_status: 0
+    id: 90880
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 500
+    min_kc_num: 100
+    offset: 280
+    ori_price: 277.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 99.0
+    price01: 57.1429
+    price02: 42.8571
+    product_class: dzm
+    product_code: VO46WZ
+    product_id: 262958
+    quantity: 1000
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38674
+    rebate_rule: '4.1'
+    rebate_total: 7.0
+    rebate_type: 3
+    saled_num: 36
+    score: 99.0
+    senior_grand_rebate: 100.0
+    senior_special_rebate: -100.0
+    sku: $不摆了鱼舍:$99元=4人餐
+    skuRebate:
+    - gmt_create: '2020-06-15 15:44:00'
+      gmt_modified: '2020-06-15 15:44:00'
+      group_rebate_minor_agency: 5.0
+      group_rebate_senior: 3.0
+      group_rebate_share: 3.0
+      group_rebate_super: 3.0
+      id: 38674
+      rebate_mode: 0
+      senior_grand_rebate_senior: 2.0
+      senior_grand_rebate_share: 3.0
+      senior_grand_rebate_super: 2.0
+      shop_rebate_agency: 9.0
+      shop_rebate_minor_agency: 4.0
+      shop_rebate_senior: 6.0
+      shop_rebate_share: 4.0
+      shop_rebate_super: 6.0
+      super_grand_rebate_senior: 1.0
+      super_grand_rebate_share: 1.5
+      super_grand_rebate_super: 1.0
+      total_rebate: -1.0
+    sku_id: '91784'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 50.0
+- - address: 0
+    agency_price01: 0.25
+    agency_price02: 0.25
+    api_data: '161310'
+    axt_cprice: 4.4
+    axt_sprice: 0.0
+    cost_price: 70.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179444
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90882
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179444
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90882
+    - control: 2
+      customized_group_id: 179444
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90882
+    gmt_create: '2020-06-15 15:51:49'
+    gmt_modified: '2020-06-20 19:02:53'
+    gp_status: 0
+    id: 90882
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 0
+    min_kc_num: 0
+    offset: 120
+    ori_price: 221.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 88.0
+    price01: 63.6364
+    price02: 36.3636
+    product_class: dzm
+    product_code: VTIQ89
+    product_id: 262957
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38676
+    rebate_rule: '4.1'
+    rebate_total: 11.0
+    rebate_type: 3
+    saled_num: 16
+    score: 88.0
+    senior_grand_rebate: 50.0
+    senior_special_rebate: -100.0
+    sku: $爱尚虾友记:$88元
+    skuRebate:
+    - gmt_create: '2020-06-15 15:51:49'
+      gmt_modified: '2020-06-15 15:51:49'
+      group_rebate_minor_agency: 0.01
+      group_rebate_senior: 2.0
+      group_rebate_share: 4.0
+      group_rebate_super: 2.0
+      id: 38676
+      rebate_mode: 0
+      senior_grand_rebate_senior: 1.5
+      senior_grand_rebate_share: 2.0
+      senior_grand_rebate_super: 1.5
+      shop_rebate_agency: 0.01
+      shop_rebate_minor_agency: 7.0
+      shop_rebate_senior: 11.0
+      shop_rebate_share: 7.0
+      shop_rebate_super: 10.0
+      super_grand_rebate_senior: 1.0
+      super_grand_rebate_share: 1.5
+      super_grand_rebate_super: 1.0
+      total_rebate: -1.0
+    sku_id: '91786'
+    special_count: 0
+    special_rebate: -50.0
+    status: 0
+    super_grand_rebate: 37.5
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 300.0
+    api_data: '161307'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 55.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179435
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90878
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179435
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90878
+    - control: 2
+      customized_group_id: 179435
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90878
+    - control: 10
+      customized_group_id: 179435
+      follow_change: 0
+      must: 1
+      name: 地址
+      num: 1
+      sku_list_id: 90878
+    gmt_create: '2020-06-15 15:38:29'
+    gmt_modified: '2020-06-15 15:38:29'
+    gp_status: 0
+    id: 90878
+    idcard: 0
+    is_area_limit: 1
+    is_support_axt: 0
+    max_kc_num: 0
+    min_kc_num: 0
+    offset: 0
+    permit_name_num: 0
+    permit_num: 0
+    price: 59.8
+    price01: 66.6667
+    price02: 33.3333
+    product_class: gds
+    product_code: DTN1J6
+    product_id: 262956
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38672
+    rebate_rule: '4.1'
+    rebate_total: 2.25
+    rebate_type: 3
+    saled_num: 0
+    score: 59.8
+    senior_grand_rebate: 33.3333
+    senior_special_rebate: -100.0
+    sku: $百菲酪水牛纯奶:$1件200ml*12盒
+    skuRebate:
+    - gmt_create: '2020-06-15 15:38:29'
+      gmt_modified: '2020-06-15 15:38:29'
+      group_rebate_minor_agency: 0.75
+      group_rebate_senior: 0.75
+      group_rebate_share: 0.75
+      group_rebate_super: 0.75
+      id: 38672
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.25
+      senior_grand_rebate_share: 0.25
+      senior_grand_rebate_super: 0.25
+      shop_rebate_agency: 2.25
+      shop_rebate_minor_agency: 1.5
+      shop_rebate_senior: 2.13
+      shop_rebate_share: 1.5
+      shop_rebate_super: 2.0
+      super_grand_rebate_senior: 0.13
+      super_grand_rebate_share: 0.13
+      super_grand_rebate_super: 0.13
+      total_rebate: -1.0
+    sku_id: '91782'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 17.3333
+- - address: 0
+    agency_price01: 166.6667
+    agency_price02: 300.0
+    api_data: '161315'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cost_price: 39.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179449
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90885
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179449
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90885
+    - control: 2
+      customized_group_id: 179449
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90885
+    - control: 10
+      customized_group_id: 179449
+      follow_change: 0
+      must: 1
+      name: 地址
+      num: 1
+      sku_list_id: 90885
+    - control: 6
+      customized_group_id: 179449
+      follow_change: 0
+      key_value: '{"0":"XL","1":"2XL","2":"3XL","3":"4XL","4":"5XL"}'
+      must: 1
+      name: 规格
+      num: 1
+      sku_list_id: 90885
+    gmt_create: '2020-06-15 15:58:59'
+    gmt_modified: '2020-06-15 15:58:59'
+    gp_status: 0
+    id: 90885
+    idcard: 0
+    is_area_limit: 1
+    is_support_axt: 0
+    max_kc_num: 468
+    min_kc_num: 50
+    offset: 32
+    permit_name_num: 0
+    permit_num: 0
+    price: 49.0
+    price01: 62.5
+    price02: 37.5
+    product_class: gds
+    product_code: 5B4H3G
+    product_id: 262955
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38679
+    rebate_rule: '4.1'
+    rebate_total: 4.0
+    rebate_type: 3
+    saled_num: 0
+    score: 49.0
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $卡帝乐鳄鱼速干冰丝空调裤:$49元/条
+    skuRebate:
+    - gmt_create: '2020-06-15 15:58:59'
+      gmt_modified: '2020-06-15 15:58:59'
+      group_rebate_minor_agency: 2.5
+      group_rebate_senior: 0.5
+      group_rebate_share: 1.5
+      group_rebate_super: 0.5
+      id: 38679
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.25
+      senior_grand_rebate_share: 1.0
+      senior_grand_rebate_super: 0.25
+      shop_rebate_agency: 4.5
+      shop_rebate_minor_agency: 2.0
+      shop_rebate_senior: 4.25
+      shop_rebate_share: 2.5
+      shop_rebate_super: 4.0
+      super_grand_rebate_senior: 0.13
+      super_grand_rebate_share: 0.5
+      super_grand_rebate_super: 0.13
+      total_rebate: 5.0
+    sku_id: '91790'
+    special_count: 0
+    special_rebate: -66.6667
+    status: 0
+    super_grand_rebate: 33.3333
+- - address: 0
+    agency_price01: 100.0
+    agency_price02: 266.6667
+    api_data: '161302'
+    axt_cprice: 3.5
+    axt_sprice: 0.0
+    cost_price: 45.0
+    cur_kc_left: 500
+    customizedGroup:
+    - follow_change: 0
+      id: 179431
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90875
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179431
+      follow_change: 0
+      must: 1
+      name: 姓名
+      num: 1
+      sku_list_id: 90875
+    - control: 2
+      customized_group_id: 179431
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90875
+    gmt_create: '2020-06-15 15:30:38'
+    gmt_modified: '2020-06-21 12:58:01'
+    gp_status: 0
+    id: 90875
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 401
+    min_kc_num: 200
+    offset: 99
+    ori_price: 538.0
+    permit_name_num: 0
+    permit_num: 0
+    price: 69.9
+    price01: 62.5
+    price02: 37.5
+    product_class: dzm
+    product_code: HOGWJN
+    product_id: 262954
+    quantity: 500
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38669
+    rebate_rule: '4.1'
+    rebate_total: 11.2
+    rebate_type: 3
+    saled_num: 9
+    score: 69.9
+    senior_grand_rebate: 66.6667
+    senior_special_rebate: -100.0
+    sku: $镜之尚:$眼镜套餐
+    skuRebate:
+    - gmt_create: '2020-06-15 15:30:38'
+      gmt_modified: '2020-06-15 15:30:38'
+      group_rebate_minor_agency: 4.2
+      group_rebate_senior: 4.2
+      group_rebate_share: 4.2
+      group_rebate_super: 4.2
+      id: 38669
+      rebate_mode: 0
+      senior_grand_rebate_senior: 2.8
+      senior_grand_rebate_share: 2.8
+      senior_grand_rebate_super: 2.8
+      shop_rebate_agency: 11.2
+      shop_rebate_minor_agency: 5.6
+      shop_rebate_senior: 11.2
+      shop_rebate_share: 7.0
+      shop_rebate_super: 9.8
+      super_grand_rebate_senior: 1.4
+      super_grand_rebate_share: 1.4
+      super_grand_rebate_super: 1.4
+      total_rebate: -1.0
+    sku_id: '91778'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 33.3333
+- - address: 0
+    agency_price01: 1.0
+    agency_price02: 1.0
+    api_data: '2269'
+    axt_cprice: 0.0
+    axt_sprice: 0.0
+    cur_kc_left: 9999999
+    customizedGroup:
+    - follow_change: 0
+      id: 179572
+      is_authentication_tips: 0
+      is_idcard_tips: 0
+      is_main: 0
+      name: 订单联系人
+      sku_list_id: 90903
+    customizedInfo:
+    - control: 1
+      customized_group_id: 179572
+      follow_change: 0
+      must: 1
+      name: 真实姓名
+      num: 1
+      sku_list_id: 90903
+    - control: 2
+      customized_group_id: 179572
+      follow_change: 0
+      must: 1
+      name: 手机
+      num: 1
+      sku_list_id: 90903
+    gmt_create: '2020-06-15 16:34:25'
+    gmt_modified: '2020-06-21 12:24:59'
+    gp_status: 1
+    id: 90903
+    idcard: 0
+    is_support_axt: 0
+    max_kc_num: 0
+    min_kc_num: 0
+    offset: 549
+    permit_name_num: 0
+    permit_num: 0
+    price: 39.9
+    price01: 75.0
+    price02: 25.0
+    product_class: scm
+    product_code: KZYOCH
+    product_id: 262953
+    quantity: 9999999
+    quantity_nullify: 0
+    rebate_force: 0
+    rebate_id: 38697
+    rebate_rule: '4.1'
+    rebate_total: 4.0
+    rebate_type: 3
+    saled_num: 251
+    senior_grand_rebate: 50.0
+    senior_special_rebate: -100.0
+    sku: $长沙V5星球水上乐园:$水上乐园门票
+    skuRebate:
+    - gmt_create: '2020-06-15 16:34:25'
+      gmt_modified: '2020-06-15 16:34:25'
+      group_rebate_minor_agency: 0.01
+      group_rebate_senior: 1.0
+      group_rebate_share: 1.0
+      group_rebate_super: 1.0
+      id: 38697
+      rebate_mode: 0
+      senior_grand_rebate_senior: 0.5
+      senior_grand_rebate_share: 0.5
+      senior_grand_rebate_super: 0.5
+      shop_rebate_agency: 0.01
+      shop_rebate_minor_agency: 3.0
+      shop_rebate_senior: 4.0
+      shop_rebate_share: 3.0
+      shop_rebate_super: 4.0
+      super_grand_rebate_senior: 0.5
+      super_grand_rebate_share: 0.5
+      super_grand_rebate_super: 0.5
+      total_rebate: -1.0
+    sku_id: '91806'
+    special_count: 0
+    special_rebate: 0.0
+    status: 0
+    super_grand_rebate: 50.0
