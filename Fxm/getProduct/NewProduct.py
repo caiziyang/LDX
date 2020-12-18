@@ -1,6 +1,5 @@
 from Fxm.Utility.HttpRequest import HttpRequest
-import requests
-from Fxm.data.rwYaml import writeDate, readYaml
+from Fxm.config.rwYaml import readYaml
 
 from Fxm.data.readRequestParameter import getUrl, getHeaders
 

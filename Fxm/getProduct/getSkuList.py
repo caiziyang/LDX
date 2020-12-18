@@ -1,6 +1,6 @@
 import  requests
 
-from Fxm.data.rwYaml import readYaml
+from Fxm.config.rwYaml import readYaml
 
 
 def getSkuList(proIds):

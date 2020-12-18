@@ -1,7 +1,5 @@
-import requests
-
 from Fxm.getProduct.getProductQuery import getProductQuery
-from Fxm.data.rwYaml import writeDate, readYaml
+from Fxm.config.rwYaml import writeDate, readYaml
 from Fxm.getProduct.NewProduct import NewProduct
 
 from Fxm.data.readRequestParameter import getUrl, getHeaders
