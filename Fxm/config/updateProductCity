@@ -1,0 +1,17 @@
+- url: https://mt.lhs11.com/fxm/services/local/fxm/city/city_shelf.japi
+  headers:
+    cookie: RSESSIONID=9F2BIR5F5GNUPUXPLWXVVXDU7SVP1L2N
+    content-type: application/json
+    user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+                (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+
+- query_json:
+    method: query
+    params:
+    pagenumber: 1
+    pagesize: 20
+    variables:
+    shelf_id:
+    id:
+
+
