@@ -1,0 +1,57 @@
+/v1/fxc4-api/order/*
+fx3-main.lhs11.com
+
+fx3-hnchangsha.lhs11.com
+/fxc/services/*
+
+
+usertoken="2uYHTkx1TF7nWkpGTFpIUki5Ukv@"
+
+usertoken="2uxG2ui025_nWkpGTFpIUki5Ukv@"
+
+usertoken="2kY02FYX2uin2kPGUF2G2FZc2Y@@"
+
+
+https://fx3-wuhan.lhs11.com/fxc/clear.jsp
+usertoken="2uxG2ui025_nWkpGTFpIUki5Ukv@"
+
+fx3-wuhan.lhs11.com
+
+
+
+cdn-fx3t-ysqg.lhs11.com
+
+/fxc/services/*
+
+env=WXMP&domain=fx3-shanxi.lhs11.com
+
+/v1/fxc4-api/login/config
+fx3-main.lhs11.com
+
+origin
+
+
+# docker 中下载 mysql
+docker pull mysql
+
+#启动
+docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=Lzslov123! -d mysql
+
+#进入容器
+docker exec -it mysql bash
+
+#登录mysql
+mysql -u root -p
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Lzslov123!';
+
+#添加远程登录用户
+CREATE USER 'liaozesong'@'%' IDENTIFIED WITH mysql_native_password BY 'Lzslov123!';
+GRANT ALL PRIVILEGES ON *.* TO 'liaozesong'@'%';
+
+CREATE USER 'vuser'@'%' IDENTIFIED WITH mysql_native_password BY 'lhs32888';
+
+GRANT ALL PRIVILEGES ON *.* TO 'vuser'@'%';
+
+
+Tojdk1.8.333222
+
