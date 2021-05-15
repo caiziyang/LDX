@@ -13,9 +13,9 @@ class AddOrder(object):
         return res.json()
 
 
-def submit_order(product_id, sku_id, room_id):
+def submit_order(product_id, sku_id, room_id, buy_count: int):
     url = """https://fx3t-ysqg.lhs11.com/v1/fxc4-api/pay/submit"""
-    headers = {'user-token': '2ui0UkYbUkinWkvbUkxbT57bT_@@',
+    headers = {'user-token': '2ui0UkpXTupnWkp0T525Tk7c2Fp@',
                'content-type': 'application/json'}
     json = {
                 "buyInfo": "[{\"name\":\"订单联系人\",\"customizeds\":["
@@ -26,7 +26,7 @@ def submit_order(product_id, sku_id, room_id):
                            "\"must\":1,\"control\":2,\"id\":13773,\"follow_change\":0,"
                            "\"value\":\"13128629906\"}]}]",
                 "cityId": "1",
-                "buyCount": 1,
+                "buyCount": buy_count,
                 "couponCode": "",
                 "customerNote": "",
                 "isBuyAxt": 0,
@@ -56,7 +56,6 @@ def call_back(fx_order_id, order_id):
     return res.json()
 
 
-
 def main(status):
     """
     1 正常发码，数量为1
@@ -67,15 +66,15 @@ def main(status):
     6 供应链产品，产品中心有第三方码记录
     """
     if status == 1:
-        get_order_ids = submit_order("5259", '8147', '103759')
+        get_order_ids = submit_order("5272", '8165', '103791', 100)
     elif status == 2:
-        get_order_ids = submit_order("5238", '8119', '103718')
+        get_order_ids = submit_order("5238", '8119', '103718', 1)
     elif status == 3:
-        get_order_ids = submit_order("5239", '8120', '103719')
+        get_order_ids = submit_order("5239", '8120', '103719', 1)
     elif status == 4:
-        get_order_ids = submit_order("5239", '8121', '103721')
+        get_order_ids = submit_order("5239", '8121', '103721', 1)
     elif status == 5:
-        get_order_ids = submit_order("5240", '8122', '103720')
+        get_order_ids = submit_order("5240", '8122', '103720', 1)
 
     fx_order_id = get_order_ids['result']['payResult']['result']['orderid']
     order_id = get_order_ids['result']['orderId']
